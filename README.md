@@ -1,5 +1,23 @@
 # Project
 
+Step 1 :-
+
+Download Projcet
+
+Step 2 :-
+
+Install npm using this command
+
+npm install
+
+Step 3 :
+
+Run Project
+
+ng serve
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
 ## Development server

@@ -2,7 +2,7 @@
 
 Step 1 :-
 
-Download Projcet
+Download Project
 
 Step 2 :-
 
